@@ -4,7 +4,7 @@ import time
 import os
 import requests
 import socket
-
+import nmap
 #banner
 banner = f"""{Fore.GREEN}
 ╔══════════════╗
